@@ -17,7 +17,7 @@
 
 `https://url.only.link`: https://url.only.link
 
-`https://url.with.cloding.slash.link/`: https://url.with.cloding.slash.link/
+`https://url.with.closing.slash.link/`: https://url.with.closing.slash.link/
 
 
 #### folder
@@ -102,7 +102,7 @@
 here links should not be parsed at all.
 
     https://url.only.link
-    https://url.with.cloding.slash.link/
+    https://url.with.closing.slash.link/
 
     https://1.link/folder_only
     https://1.link/slash_after_folder/
