@@ -3,8 +3,8 @@
 
 ## currently tested
 
-1. [old.reddit](https://new.reddit.com/user/dym_sh/comments/kqgb1j/markdowntests_raw_links/)
-2. [new.reddit](https://old.reddit.com/user/dym_sh/comments/kqgb1j/markdowntests_raw_links/)
+1. [new.reddit](https://new.reddit.com/user/dym_sh/comments/kqgb1j/markdowntests_raw_links/)
+2. [old.reddit](https://old.reddit.com/user/dym_sh/comments/kqgb1j/markdowntests_raw_links/)
 3. [github](https://github.com/dym-sh/markdown-tests/blob/latest/raw_links.md)
 4. [gitlab](https://gitlab.com/dym-sh/markdown-tests/-/blob/latest/raw_links.md)
 5. [codepen](https://codepen.io/dym-sh/pen/abmGvMP/left/?editors=1000)
