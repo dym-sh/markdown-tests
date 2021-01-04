@@ -1,4 +1,4 @@
-# example test markdown parsing and rendering of `[links](https://links.link/link/)`
+# example test markdown parsing and rendering of `raw https://links.link/link/`
 
 
 ## currently tested
