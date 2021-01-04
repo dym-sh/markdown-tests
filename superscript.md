@@ -1,4 +1,16 @@
-# `^superscript`
+# example test markdown parsing and rendering of `^superscript`
+
+
+## currently tested
+
+1. [old.reddit](https://new.reddit.com/user/dym_sh/comments/kq9n3n/this_is_a_superscripttest_post/)
+2. [new.reddit](https://old.reddit.com/user/dym_sh/comments/kq9n3n/this_is_a_superscripttest_post/)
+3. [github](https://github.com/dym-sh/markdown-tests/blob/latest/superscript.md)
+4. [gitlab](https://gitlab.com/dym-sh/markdown-tests/-/blob/latest/superscript.md)
+5. [codepen](https://codepen.io/dym-sh/pen/rNMvOYJ/left/?editors=1000)
+6. [beaker](hyper://0cfadf84089316a605c1c9dfb7c9ae4430b1c455600d5d1f49df362a428ed089/superscript.md) /[?](https://beakerbrowser.com)
+
+----
 
 
 ## single words
@@ -36,13 +48,20 @@
 
 `^(simple text with spaces, no extras!)`: ^(simple text with spaces, no extras!)
 
-`^(this entire text is superscripted, [link](/link) too)`: ^(this entire text is superscripted, [link](/link) too)
+`^(start; (some brackets) ending.)`: ^(start; (some brackets) ending.)
 
-`^(start; (some brackets) [this] {hm} ending.)`: ^(start; (some brackets) [this] {hm} ending.)
+`^(start; [this] ending.)`: ^(start; [this] ending.)
+
+`^(start; {hm} ending.)`: ^(start; {hm} ending.)
 
 `^(start; \(escaped brackets\) \[esc this\] \{esc hm\} ending.)`: ^(start; \(escaped brackets\) \[esc this\] \{esc hm\} ending.)
 
-`^(escaped brackets: [link2]\(/link2\) 2)`: ^(escaped brackets: [link2]\(/link2\) 2)
+
+### sentences with links
+
+`^(this entire text is superscripted, [link](/link) too)`: ^(this entire text is superscripted, [link](/link) too)
+
+`^(escaped link-brackets: [link2]\(/link2\) 2)`: ^(escaped link-brackets: [link2]\(/link2\) 2)
 
 
 
@@ -51,14 +70,3 @@
 `<sup>literally "&lt;sup&gt;"</sup>`: <sup>literally "&lt;sup&gt;"</sup>
 
 `<sub>literally "&lt;sub&gt;"</sub>`: <sub>literally "&lt;sub&gt;"</sub>
-
-
-----
-
-currently tested:
-
-1. [old.reddit]()
-2. [new.reddit]()
-3. [github]()
-4. [gitlab]()
-5. [codepen]()
