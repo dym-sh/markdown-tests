@@ -133,3 +133,6 @@ here links should not be parsed at all.
 
     https://10.link/folder_only--"double+quoted+part"
     https://10.link/slash_after_folder--"double+quoted+part"/
+
+    https://11.link/folder_only--question+mark+equals?=
+    https://11.link/slash_after_folder--question+mark+equals?=/
