@@ -8,7 +8,6 @@
 3. [github](https://github.com/dym-sh/markdown-tests/blob/latest/superscript.md)
 4. [gitlab](https://gitlab.com/dym-sh/markdown-tests/-/blob/latest/superscript.md)
 5. [codepen](https://codepen.io/dym-sh/pen/rNMvOYJ/left/?editors=1000)
-6. [beaker](hyper://0cfadf84089316a605c1c9dfb7c9ae4430b1c455600d5d1f49df362a428ed089/superscript.md) /[?](https://beakerbrowser.com)
 
 ----
 

@@ -8,7 +8,6 @@
 3. [github](https://github.com/dym-sh/markdown-tests/blob/latest/raw_links.md)
 4. [gitlab](https://gitlab.com/dym-sh/markdown-tests/-/blob/latest/raw_links.md)
 5. [codepen](https://codepen.io/dym-sh/pen/abmGvMP/left/?editors=1000)
-6. [beaker](hyper://0cfadf84089316a605c1c9dfb7c9ae4430b1c455600d5d1f49df362a428ed089/raw_links.md) /[?](https://beakerbrowser.com)
 
 ----
 
@@ -55,7 +54,7 @@
 `https://5.link/slash_after_folder--{with+curly+brackets}/`: https://5.link/slash_after_folder--{with+curly+brackets}/
 
 
-#### <angle brackets>
+#### &lt;angle brackets&gt;
 
 `https://6.link/folder_only--<with+angle+brackets>`: https://6.link/folder_only--<with+angle+brackets>
 
